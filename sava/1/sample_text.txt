@@ -1,0 +1,4 @@
+Este texto tem palavras
+repetidas pyhton mapreduce hadoop palavras
+palavra palavras hadoop texto pyhton
+mrjob hadoop mapreduce hadoop pyhton

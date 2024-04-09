@@ -1,0 +1,10 @@
+"mrjob"	1
+"palavra"	1
+"palavras"	3
+"pyhton"	3
+"repetidas"	1
+"tem"	1
+"texto"	2
+"mapreduce"	2
+"este"	1
+"hadoop"	4
